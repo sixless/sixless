@@ -22,10 +22,9 @@ features:
     link: "https://vitepress.dev/"
     linkText: "Learn more"
   - icon:
-      dark: /dark-github-icon.svg
-      light: /light-github-icon.svg
+      src: /Vercel.svg
     title: 项目托管
-    details: 该文档站于 <span style="color:RoyalBlue">GitHub Pages</span> 部署。
-    link: "https://pages.github.com/"
+    details: 该文档站于 <span style="color:RoyalBlue">Vercel</span> 部署。
+    link: "https://vercel.com/"
     linkText: "Learn more"
 ---
