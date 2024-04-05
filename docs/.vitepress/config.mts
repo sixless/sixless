@@ -1,4 +1,4 @@
-import { defineConfig,useData } from 'vitepress'
+import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -7,6 +7,7 @@ export default defineConfig({
   description: "这只是个普通VitePress Site -> github pages 测试",
   srcDir: 'src',
   base: '/sixless/',
+  assetsDir: 'assets',
   srcExclude: ['**/README.md', '**/TODO.md'],
   //metaChunk: true, //页面元数据分离
   cleanUrls: true, //清除.html扩展名
