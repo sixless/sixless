@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: "zh-cn",
-  title: "mtest文档",
+  title: "mTest文档站",
   description: "这只是个普通VitePress Site -> github pages 测试",
   srcDir: 'src',
   //base: '/sixless/',
