@@ -6,6 +6,7 @@ export default defineConfig({
   title: "mtest文档",
   description: "这只是个普通VitePress Site -> github pages 测试",
   srcDir: 'src',
+  base: '/sixless/',
   srcExclude: ['**/README.md', '**/TODO.md'],
   metaChunk: true, //页面元数据分离
   cleanUrls: true, //清除.html扩展名
