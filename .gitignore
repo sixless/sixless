@@ -3,6 +3,3 @@ cache
 .gitignore
 dist
 .vscode
-package-lock.json
-package.json
-packages
