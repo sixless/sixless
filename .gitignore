@@ -3,4 +3,5 @@ cache
 .gitignore
 dist
 .vscode
-.vercel
+package-lock.json
+package.json
