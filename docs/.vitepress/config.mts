@@ -8,7 +8,7 @@ export default defineConfig({
   srcDir: 'src',
   base: '/sixless/',
   srcExclude: ['**/README.md', '**/TODO.md'],
-  metaChunk: true, //页面元数据分离
+  //metaChunk: true, //页面元数据分离
   cleanUrls: true, //清除.html扩展名
   lastUpdated: true, //时间戳
   head: [
