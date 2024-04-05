@@ -38,7 +38,7 @@ export default defineConfig({
 
     nav: [
       { text: '文章', link: '/markdown-examples' },
-      { text: '关于', link: '/user/about' },
+      { text: '关于', link: '/about' },
     ],
 
     sidebar: [
@@ -91,5 +91,8 @@ export default defineConfig({
       pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path'
     }
     */
+  },
+  markdown: {
+    lineNumbers: true
   }
 })
