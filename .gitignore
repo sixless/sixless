@@ -3,3 +3,4 @@ cache
 .gitignore
 dist
 .vscode
+.vercel
