@@ -57,7 +57,8 @@ export default defineConfig({
     ],
 
     sidebar: {
-      "/": set_sidebar("docs/src/packages/")
+      "/": set_sidebar("docs/src/packages/"),
+      
 
     },
 
